@@ -1,4 +1,4 @@
-# Algorithms, Data Structure, and Programming Lanuguages
+# Algorithms, Data Structures, and Programming Languages
 # Lisp vs. Haskell: A Functional Programming Comparison
 
 ## Overview
